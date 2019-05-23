@@ -1,0 +1,7 @@
+﻿OPTIMIZE EVERYTHING!!!
+Image Uploading
+- FTP/SFTP Support
+- Custom Uploader
+Gif/Webm Support
+- Recording of
+Capture different shapes (Box, Triangle, Circle, etc)
